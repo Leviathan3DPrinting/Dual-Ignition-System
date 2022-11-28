@@ -3,8 +3,8 @@ Infared Halogen heaters for 3D printing layer adhesion and warping.
 
 Basis for development:
 
-- https://www.researchgate.net/publication/311666362_High_Temperature_Thermoplastic_Additive_Manufacturing_Using_Low-Cost_Open-Source_Hardware#pf13
-- https://www.youtube.com/watch?v=U3kgGxrB-bk
+- NASA: https://www.researchgate.net/publication/311666362_High_Temperature_Thermoplastic_Additive_Manufacturing_Using_Low-Cost_Open-Source_Hardware#pf13
+- Essentium: https://www.youtube.com/watch?v=U3kgGxrB-bk
 - Lisa Sinterit Pro
 
 Parts:
