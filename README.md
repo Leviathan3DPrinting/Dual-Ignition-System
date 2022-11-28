@@ -27,6 +27,8 @@ Wiring & Control:
 
 - Control Like a normal part cooling fan!
 
+TRY AT YOUR OWN RISK!
+
 ![Dual_Ignition_System_Running](https://github.com/Leviathan3DPrinting/Dual-Ignition-System/blob/d84c7496a5f1814fdd7f631fe8353dc4c55e3813/Pictures/Dual_Ignition_System(6).jpeg)
 
 This project is licensed as
