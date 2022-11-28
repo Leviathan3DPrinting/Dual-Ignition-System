@@ -44,7 +44,7 @@ Youtube:
 https://www.youtube.com/@HoodPlastics
 
 Discord:
-https://discord.gg/SPbfnfDE
+https://discord.gg/yPuzRCrs
 
 Show your support!
 https://www.buymeacoffee.com/Leviathan3D
