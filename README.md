@@ -4,8 +4,8 @@ Infared Halogen heaters for 3D printing layer adhesion and warping.
 ![Dual_Ignition_System_Running](https://github.com/Leviathan3DPrinting/Dual-Ignition-System/blob/d84c7496a5f1814fdd7f631fe8353dc4c55e3813/Pictures/Dual_Ignition_System(6).jpeg)
 
 ## Basis for development:
-- NASA: https://www.researchgate.net/publication/311666362_High_Temperature_Thermoplastic_Additive_Manufacturing_Using_Low-Cost_Open-Source_Hardware#pf13
-- Essentium: https://www.youtube.com/watch?v=U3kgGxrB-bk
+- [NASA](https://www.researchgate.net/publication/311666362_High_Temperature_Thermoplastic_Additive_Manufacturing_Using_Low-Cost_Open-Source_Hardware#pf13)
+- [Essentium](https://www.youtube.com/watch?v=U3kgGxrB-bk)
 - Lisa Sinterit Pro
 
 ## Parts:
@@ -31,11 +31,9 @@ Infared Halogen heaters for 3D printing layer adhesion and warping.
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
 
 ## Social Media
-Youtube:
-https://www.youtube.com/@HoodPlastics
+[Youtube](https://www.youtube.com/@HoodPlastics)
 
-Discord:
-https://discord.gg/yPuzRCrs
+[Discord](https://discord.gg/yPuzRCrs)
 
 ## Show your support!
 https://www.buymeacoffee.com/Leviathan3D
