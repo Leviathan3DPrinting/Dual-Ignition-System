@@ -5,6 +5,8 @@ Infared Halogen heaters for 3D printing layer adhesion and warping.
 
 ![Dual_Ignition_System_V2](https://github.com/Leviathan3DPrinting/Dual-Ignition-System/blob/7ef7221ec45fe904b592c2c2318db523055128fc/Pictures/Dual_Ignition_System(8).jpg)
 
+[![First_Test](https://github.com/Leviathan3DPrinting/Dual-Ignition-System/blob/1cb7c934ea2fb376bccbf4dba7197016710d88f1/Pictures/Dual_Ignition_System(7).jpg)](https://github.com/Leviathan3DPrinting/Dual-Ignition-System/blob/1cb7c934ea2fb376bccbf4dba7197016710d88f1/Video/First_Test.MOV)
+
 ## Insiration for development:
 - [NASA](https://www.researchgate.net/publication/311666362_High_Temperature_Thermoplastic_Additive_Manufacturing_Using_Low-Cost_Open-Source_Hardware#pf13)
 - [Essentium](https://patents.google.com/patent/US10836106B2/en)
