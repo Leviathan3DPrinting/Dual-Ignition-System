@@ -5,6 +5,7 @@ Infared Halogen heaters for 3D printing layer adhesion and warping.
 
 ![Dual_Ignition_System_V2](https://github.com/Leviathan3DPrinting/Dual-Ignition-System/blob/7ef7221ec45fe904b592c2c2318db523055128fc/Pictures/Dual_Ignition_System(8).jpg)
 
+## Video:
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Im8iQbk726Y" target="_blank">
  <img src="http://img.youtube.com/vi/Im8iQbk726Y/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
 </a>
