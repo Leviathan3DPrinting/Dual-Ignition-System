@@ -1,4 +1,4 @@
-# Dual-Ignition-System V2
+# Dual-Ignition-System V3
 Infared Halogen heaters for 3D printing layer adhesion and warping.
 
 ![Dual_Ignition_System_Running](https://github.com/Leviathan3DPrinting/Dual-Ignition-System/blob/d84c7496a5f1814fdd7f631fe8353dc4c55e3813/Pictures/Dual_Ignition_System(6).jpeg)
@@ -7,7 +7,7 @@ Infared Halogen heaters for 3D printing layer adhesion and warping.
 
 ## Video:
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Im8iQbk726Y" target="_blank">
- <img src="http://img.youtube.com/vi/Im8iQbk726Y/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
+ <img src="http://img.youtube.com/vi/Im8iQbk726Y/mqdefault.jpg" alt="Watch the video" width="480" height="360" border="10" />
 </a>
 
 ## Insiration for development:
@@ -16,12 +16,24 @@ Infared Halogen heaters for 3D printing layer adhesion and warping.
 - Lisa Sinterit Pro
 
 ## Parts:
-- Taulman3D Carbon Fiber Alloy Nylon 1LB
-- 2Pcs 10W 12V Halogen bulbs
-- 2Pcs 20W 12V Halogen bulbs ~~(TESTING PENDING)~~
-- 2Pcs G4 Lamp Socket
+V1
+- [2Pcs 10W 12V G4 Halogen bulbs](https://amzn.to/3ua1yw2)
+- [2Pcs G4 Lamp Socket](https://amzn.to/3XFBFkZ)
 ~~- High Tempature Insulation (RTV and Micah Powder, Aerogel)~~
-- Aluminum Tape Reflector - V2
+
+V2
+- [2Pcs 20W 12V G4 Halogen bulbs](https://amzn.to/3XyM3Lz) ~~(PENDING SAFETY TEST)~~
+- [2Pcs G4 Lamp Socket](https://amzn.to/3XFBFkZ)
+
+V3 - SERIOUS HEAT INCOMING!!!
+- 2Pcs 50W 120V T9 Halogen bulbs (PENDING SAFETY TEST)
+- 2Pcs T9 Lamp Socket
+
+Filament
+- [Taulman3D Carbon Fiber Alloy Nylon 1LB](https://taulman3d.com/carbonfiberalloynylonfilament.html)
+
+Misc
+- [Aluminum Tape Reflector](https://amzn.to/3JrEiT3)
 
 ## Wiring & Control:
 - BE CAREFUL AND PAY ATTENTION!
