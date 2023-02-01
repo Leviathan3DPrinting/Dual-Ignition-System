@@ -13,7 +13,7 @@ Infared Halogen heaters for 3D printing layer adhesion and warping.
 ## Parts:
 - Taulman3D Carbon Fiber Alloy Nylon 1LB
 - 2Pcs 10W 12V Halogen bulbs
-- 2Pcs 20W 12V Halogen bulbs (TESTING PENDING)
+- 2Pcs 20W 12V Halogen bulbs ~~(TESTING PENDING)~~
 - 2Pcs G4 Lamp Socket
 ~~- High Tempature Insulation (RTV and Micah Powder, Aerogel)~~
 - Aluminum Tape Reflector - V2
