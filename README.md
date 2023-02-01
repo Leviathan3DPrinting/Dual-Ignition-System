@@ -26,8 +26,8 @@ V2
 - [2Pcs G4 Lamp Socket](https://amzn.to/3XFBFkZ)
 
 V3 - SERIOUS HEAT INCOMING!!!
-- 2Pcs 50W 120V T9 Halogen bulbs (PENDING SAFETY TEST)
-- 2Pcs T9 Lamp Socket
+- 2Pcs 50W 120V G9 Halogen bulbs (PENDING SAFETY TEST)
+- 2Pcs G9 Lamp Socket
 
 Filament
 - [Taulman3D Carbon Fiber Alloy Nylon 1LB](https://taulman3d.com/carbonfiberalloynylonfilament.html)
