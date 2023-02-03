@@ -11,7 +11,7 @@ Infared Halogen heaters for 3D printing layer adhesion and warping.
 </a>
 
 ## Insiration for development:
-- [NASA](https://www.researchgate.net/publication/311666362_High_Temperature_Thermoplastic_Additive_Manufacturing_Using_Low-Cost_Open-Source_Hardware#pf13)
+- [NASA](https://ntrs.nasa.gov/api/citations/20170000214/downloads/20170000214.pdf)
 - [Essentium](https://patents.google.com/patent/US10836106B2/en)
 - Lisa Sinterit Pro
 
