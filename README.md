@@ -53,7 +53,7 @@ Misc
 ## Wiring & Control:
 - BE CAREFUL AND PAY ATTENTION!
 - Wire in parallel into 12V heater port or in series into 24V heater port
-- ~~~Control Like a normal part cooling fan!~~~
+- ~~Control Like a normal part cooling fan!~~
 
 ## Mounting:
 - Ender 3 (and clones)
