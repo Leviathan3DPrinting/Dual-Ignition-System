@@ -5,29 +5,44 @@ Infared Halogen heaters for 3D printing layer adhesion and warping.
 
 ![Dual_Ignition_System_V2](https://github.com/Leviathan3DPrinting/Dual-Ignition-System/blob/7ef7221ec45fe904b592c2c2318db523055128fc/Pictures/Dual_Ignition_System(8).jpg)
 
-## Video:
+## Videos:
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Im8iQbk726Y" target="_blank">
  <img src="http://img.youtube.com/vi/Im8iQbk726Y/mqdefault.jpg" alt="Watch the video" width="480" height="360" border="10" />
 </a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=cBALBl2ZPFs" target="_blank">
+ <img src="http://img.youtube.com/vi/cBALBl2ZPFs/mqdefault.jpg" alt="Watch the video" width="480" height="360" border="10" />
+</a>
 
 ## Insiration for development:
-- [NASA](https://ntrs.nasa.gov/api/citations/20170000214/downloads/20170000214.pdf)
-- [Essentium](https://patents.google.com/patent/US10836106B2/en)
-- Lisa Sinterit Pro
+- [NASA - Open-Source Hardware](https://ntrs.nasa.gov/api/citations/20170000214/downloads/20170000214.pdf)
+- [Essentium Inc - US Patent](https://patents.google.com/patent/US10836106B2/en)
+- Lisa Sinterit Pro - SLS 3D Printer
+
+### New
+- [Apium Additive Technologies GmbH - European Patent](https://patents.google.com/patent/EP3322579B1)
+- [Apium Additive Technologies GmbH - European Patent - English Translation](https://patents.google.com/patent/EP3322579B1/en?oq=EP3322579B1)
+- [Apium Additive Technologies GmbH - US Patent](https://patents.google.com/patent/US10946578B2)
+- [Stratasys Inc - US Patent](https://patents.google.com/patent/US6722872B1) - Not that I have an enclosure/chamber but this is officially expired!
 
 ## Parts:
-V1
-- [2Pcs 10W 12V G4 Halogen bulbs](https://amzn.to/3ua1yw2)
+V1 - PLA
+- [2Pcs 10W 12VDC G4 Halogen bulbs](https://amzn.to/3ua1yw2)
 - [2Pcs G4 Lamp Socket](https://amzn.to/3XFBFkZ)
 ~~- High Tempature Insulation (RTV and Micah Powder, Aerogel)~~
 
-V2
-- [2Pcs 20W 12V G4 Halogen bulbs](https://amzn.to/3XyM3Lz) ~~(PENDING SAFETY TEST)~~
+V2 - PLA/PETG
+- [2Pcs 20W 12VDC G4 Halogen bulbs](https://amzn.to/3XyM3Lz) ~~(PENDING SAFETY TEST)~~
 - [2Pcs G4 Lamp Socket](https://amzn.to/3XFBFkZ)
 
+V2.5 - Additional Heating Required!
+- [1Pc 300W 120VAC Heated Fan](https://visionminer.com/collections/parts/products/heated-fan)
+- 4Pcs 250W 120VAC T3 Halogen bulbs (PENDING SAFETY TEST)
+- 2Pcs SSR
+
 V3 - SERIOUS HEAT INCOMING!!!
-- 2Pcs 50W 120V G9 Halogen bulbs (PENDING SAFETY TEST)
+- 2Pcs 50W 120VAC G9 Halogen bulbs (PENDING SAFETY TEST)
 - 2Pcs G9 Lamp Socket
+- 1Pc SSR
 
 Filament
 - [Taulman3D Carbon Fiber Alloy Nylon 1LB](https://taulman3d.com/carbonfiberalloynylonfilament.html)
@@ -38,7 +53,7 @@ Misc
 ## Wiring & Control:
 - BE CAREFUL AND PAY ATTENTION!
 - Wire in parallel into 12V heater port or in series into 24V heater port
-- Control Like a normal part cooling fan!
+- ~~~Control Like a normal part cooling fan!~~~
 
 ## Mounting:
 - Ender 3 (and clones)
