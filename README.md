@@ -23,6 +23,7 @@ Infared Halogen heaters for 3D printing layer adhesion and warping.
 - [Apium Additive Technologies GmbH - European Patent - English Translation](https://patents.google.com/patent/EP3322579B1/en?oq=EP3322579B1)
 - [Apium Additive Technologies GmbH - US Patent](https://patents.google.com/patent/US10946578B2)
 - [Stratasys Inc - US Patent](https://patents.google.com/patent/US6722872B1) - Not that I have an enclosure/chamber but this is officially expired!
+- [Orion AM's Thermal Radiation Heating Technology](https://www.orion-am.com/blog/orion-am-news-1/orion-am-s-thermal-radiation-heating-technology-5)
 
 ## Parts:
 V1 - PLA
