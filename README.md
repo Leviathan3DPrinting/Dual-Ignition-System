@@ -17,6 +17,7 @@ Infared Halogen heaters for 3D printing layer adhesion and warping.
 - [NASA - Open-Source Hardware](https://ntrs.nasa.gov/api/citations/20170000214/downloads/20170000214.pdf)
 - [Essentium Inc - US Patent](https://patents.google.com/patent/US10836106B2/en)
 - Lisa Sinterit Pro - SLS 3D Printer
+- [BAAM - Infared Pre-Heating](https://doi.org/10.1016/j.addma.2016.11.008)
 
 ### New
 - [Apium Additive Technologies GmbH - European Patent](https://patents.google.com/patent/EP3322579B1)
@@ -24,6 +25,20 @@ Infared Halogen heaters for 3D printing layer adhesion and warping.
 - [Apium Additive Technologies GmbH - US Patent](https://patents.google.com/patent/US10946578B2)
 - [Stratasys Inc - US Patent](https://patents.google.com/patent/US6722872B1) - Not that I have an enclosure/chamber but this is officially expired!
 - [Orion AM's Thermal Radiation Heating Technology](https://www.orion-am.com/blog/orion-am-news-1/orion-am-s-thermal-radiation-heating-technology-5)
+
+### Future Ideas
+Infared Absorbing Additives:
+- [ATO - Antimony Tin Oxides](https://doi.org/10.1080/09243046.2021.1973173) - 2% by weight
+
+Other Potential Additives:
+- Indium Tin Oxides (ITO)
+- Doped Tungsten Oxides (CTO)
+
+Photopolymerization:
+[NIR-DIW ink](https://doi.org/10.1038/s41467-020-17251-z) - crazy chemistry
+
+Embedded IR:
+[InfraredTags](https://doi.org/10.1145/3491102.3501951) - (STOP USING RHINO PEOPLE!)
 
 ## Parts:
 V1 - PLA
